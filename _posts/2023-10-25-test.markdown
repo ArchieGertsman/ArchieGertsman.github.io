@@ -1,7 +1,12 @@
 ---
 layout: post
 title:  "Test"
-date:   2023-10-25 17:51:03 -0500
+date:   2023-10-25 19:12:01 -0500
 categories: jekyll update
 ---
-Testing
+
+$$ \nabla_\boldsymbol{x} J(\boldsymbol{x}) $$
+
+{% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+{% endraw %}
